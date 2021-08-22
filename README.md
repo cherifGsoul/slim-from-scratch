@@ -1,7 +1,7 @@
 # slim-from-scratch
 Code source for the blog series articles:
 
-[- Part 1](https://dev.to/cherif_b/introducing-slim-4-55j9): the master branch
+[- Introducing Slim 4 (Part 1)](https://dev.to/cherif_b/introducing-slim-4-55j9): the master branch
 
 ## Install
 
