@@ -1,0 +1,25 @@
+{
+    "name": "cherif/slim-from-scratch",
+    "autoload": {
+        "psr-4": {
+            "Cherif\\SlimFromScratch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cherif BOUCHELAGHEM",
+            "email": "cherif.bouchelaghem@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "slim/slim": "^4.8",
+        "laminas/laminas-diactoros": "^2.6"
+    },
+    "scripts": {
+        "server": "php -S localhost:8000 -t public"
+    },
+    "config": {
+        "process-timeout": 0
+    }
+}
